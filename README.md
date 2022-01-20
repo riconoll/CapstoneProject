@@ -1,7 +1,7 @@
 # CapstoneProject
 ## Bike Accident in Great Britain from 1979 - 2018
 
-This Capstone Project explores the dataset of bike accident in Great Britain from 1979 -2018. 
+This Capstone Project explores the dataset of bike accident in Great Britain from 1979 - 2018. 
 The dataset inlcudes when the accidents occur, what the road conditions were, gender, age, and severity of casualties.
 My hypothesis is that most of these bicycle accidents occur during dry road conditions. Follow my exploration [here](https://github.com/riconoll/CapstoneProject/blob/main/JonJonCapstoneProject.ipynb).
 
