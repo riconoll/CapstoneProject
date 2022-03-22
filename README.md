@@ -7,7 +7,7 @@ My hypothesis is that most of these bicycle accidents occur during dry road cond
 
 For an interactive visualization, click [here](https://public.tableau.com/app/profile/jon.jon.rico.noll/viz/BicycleAccidentInGreatBritain/BicycleAccident).
 
-### Program Used
+### Tech Stack Used
   - BigQuery <i>(Data Cleaning)</i>
   - Python and Python Libraries <i>(Exploration)</i>
   - Tableau <i>(Visualization)</i>
